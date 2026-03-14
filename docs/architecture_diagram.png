@@ -1,0 +1,16 @@
+User
+ ↓
+Web Interface (HTML / CSS / JS)
+ ↓
+Flask Backend
+ ↓
+Image Preprocessing
+ ↓
+Deep Learning Model
+(InceptionV3 / ResNet50 / MobileNetV2)
+ ↓
+Prediction Output
+ ↓
+Breed Information Database
+ ↓
+Result Display
