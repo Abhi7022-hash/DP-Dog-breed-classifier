@@ -1,0 +1,16 @@
+User
+  │
+Web Interface 
+  │
+Flask Backend Server
+  │
+Image Preprocessing
+  │
+Deep Learning Model
+(InceptionV3) 
+  │
+Prediction Result
+  │
+Breed Information (JSON Database)
+  │
+Result Displayed to User
